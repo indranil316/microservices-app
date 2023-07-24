@@ -1,0 +1,7 @@
+docker build ./deptService -t ik-dept-service:v1
+docker build ./empService -t ik-emp-service:v1
+docker build ./microclient -t ik-client-service:v1
+
+docker run -d -p 4001:4001 --name ikDeptService ik-dept-service:v1
+docker run -d -p 4002:4002 --name ikEmpService ik-emp-service:v1
+docker run -d -p 4000:4000 --name ikClientService ik-client-service:v1

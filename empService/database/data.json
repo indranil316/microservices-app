@@ -1,0 +1,292 @@
+{
+    "employees": [
+      {
+        "id": 101,
+        "name": "John Smith",
+        "age": 32,
+        "department_id": 1,
+        "position": "HR Manager",
+        "salary": 65000.0
+      },
+      {
+        "id": 102,
+        "name": "Emily Johnson",
+        "age": 28,
+        "department_id": 1,
+        "position": "HR Specialist",
+        "salary": 48000.0
+      },
+      {
+        "id": 103,
+        "name": "Michael Lee",
+        "age": 35,
+        "department_id": 2,
+        "position": "Marketing Manager",
+        "salary": 72000.0
+      },
+      {
+        "id": 104,
+        "name": "Sarah Adams",
+        "age": 30,
+        "department_id": 2,
+        "position": "Marketing Coordinator",
+        "salary": 54000.0
+      },
+      {
+        "id": 105,
+        "name": "David Chen",
+        "age": 40,
+        "department_id": 3,
+        "position": "Finance Manager",
+        "salary": 78000.0
+      },
+      {
+        "id": 106,
+        "name": "Amy Wilson",
+        "age": 26,
+        "department_id": 3,
+        "position": "Financial Analyst",
+        "salary": 60000.0
+      },
+      {
+        "id": 107,
+        "name": "Robert Davis",
+        "age": 37,
+        "department_id": 4,
+        "position": "Engineering Manager",
+        "salary": 85000.0
+      },
+      {
+        "id": 108,
+        "name": "Jennifer White",
+        "age": 33,
+        "department_id": 4,
+        "position": "Software Engineer",
+        "salary": 72000.0
+      },
+      {
+        "id": 109,
+        "name": "William Turner",
+        "age": 29,
+        "department_id": 5,
+        "position": "Sales Manager",
+        "salary": 71000.0
+      },
+      {
+        "id": 110,
+        "name": "Emma Martin",
+        "age": 27,
+        "department_id": 5,
+        "position": "Sales Representative",
+        "salary": 52000.0
+      },
+      {
+        "id": 111,
+        "name": "Richard Hill",
+        "age": 36,
+        "department_id": 6,
+        "position": "IT Manager",
+        "salary": 78000.0
+      },
+      {
+        "id": 112,
+        "name": "Olivia Clark",
+        "age": 31,
+        "department_id": 6,
+        "position": "Systems Analyst",
+        "salary": 62000.0
+      },
+      {
+        "id": 113,
+        "name": "Matthew Allen",
+        "age": 34,
+        "department_id": 7,
+        "position": "Operations Manager",
+        "salary": 75000.0
+      },
+      {
+        "id": 114,
+        "name": "Sophia Walker",
+        "age": 25,
+        "department_id": 7,
+        "position": "Operations Coordinator",
+        "salary": 55000.0
+      },
+      {
+        "id": 115,
+        "name": "Daniel Turner",
+        "age": 38,
+        "department_id": 8,
+        "position": "Customer Service Manager",
+        "salary": 70000.0
+      },
+      {
+        "id": 116,
+        "name": "Ava Evans",
+        "age": 30,
+        "department_id": 8,
+        "position": "Customer Service Representative",
+        "salary": 51000.0
+      },
+          {
+            "id": 117,
+            "name": "James Cooper",
+            "age": 33,
+            "department_id": 9,
+            "position": "Research Scientist",
+            "salary": 80000.0
+          },
+          {
+            "id": 118,
+            "name": "Mia Hernandez",
+            "age": 29,
+            "department_id": 9,
+            "position": "Research Assistant",
+            "salary": 55000.0
+          },
+          {
+            "id": 119,
+            "name": "Ethan Rivera",
+            "age": 26,
+            "department_id": 10,
+            "position": "Product Manager",
+            "salary": 82000.0
+          },
+          {
+            "id": 120,
+            "name": "Isabella Martinez",
+            "age": 30,
+            "department_id": 10,
+            "position": "Product Designer",
+            "salary": 67000.0
+          },
+          {
+            "id": 121,
+            "name": "Michael Wright",
+            "age": 35,
+            "department_id": 1,
+            "position": "Public Relations Manager",
+            "salary": 75000.0
+          },
+          {
+            "id": 122,
+            "name": "Grace Hill",
+            "age": 28,
+            "department_id": 1,
+            "position": "Public Relations Specialist",
+            "salary": 58000.0
+          },
+          {
+            "id": 123,
+            "name": "Samuel Gonzalez",
+            "age": 39,
+            "department_id": 2,
+            "position": "Corporate Lawyer",
+            "salary": 95000.0
+          },
+          {
+            "id": 124,
+            "name": "Avery Scott",
+            "age": 31,
+            "department_id": 2,
+            "position": "Legal Assistant",
+            "salary": 60000.0
+          },
+          {
+            "id": 125,
+            "name": "Victoria Cooper",
+            "age": 27,
+            "department_id": 3,
+            "position": "Quality Assurance Manager",
+            "salary": 72000.0
+          },
+          {
+            "id": 126,
+            "name": "Lucas Ramirez",
+            "age": 33,
+            "department_id": 3,
+            "position": "QA Engineer",
+            "salary": 62000.0
+          },
+          {
+            "id": 127,
+            "name": "Sophie Turner",
+            "age": 36,
+            "department_id": 4,
+            "position": "Supply Chain Manager",
+            "salary": 79000.0
+          },
+          {
+            "id": 128,
+            "name": "Daniel Parker",
+            "age": 32,
+            "department_id": 4,
+            "position": "Supply Chain Coordinator",
+            "salary": 55000.0
+          },
+          {
+            "id": 129,
+            "name": "Liam Bennett",
+            "age": 28,
+            "department_id": 5,
+            "position": "Manufacturing Manager",
+            "salary": 75000.0
+          },
+          {
+            "id": 130,
+            "name": "Harper Ward",
+            "age": 25,
+            "department_id": 5,
+            "position": "Production Technician",
+            "salary": 52000.0
+          },
+          {
+            "id": 131,
+            "name": "Jackson Collins",
+            "age": 31,
+            "department_id": 6,
+            "position": "Training Manager",
+            "salary": 68000.0
+          },
+          {
+            "id": 132,
+            "name": "Madison Cook",
+            "age": 29,
+            "department_id": 6,
+            "position": "Training Specialist",
+            "salary": 56000.0
+          },
+          {
+            "id": 133,
+            "name": "William Adams",
+            "age": 35,
+            "department_id": 7,
+            "position": "Facilities Manager",
+            "salary": 72000.0
+          },
+          {
+            "id": 134,
+            "name": "Aria Powell",
+            "age": 27,
+            "department_id": 7,
+            "position": "Facilities Coordinator",
+            "salary": 54000.0
+          },
+          {
+            "id": 135,
+            "name": "Oliver Wright",
+            "age": 32,
+            "department_id": 8,
+            "position": "Health and Safety Officer",
+            "salary": 62000.0
+          },
+          {
+            "id": 136,
+            "name": "Charlotte Hill",
+            "age": 26,
+            "department_id": 8,
+            "position": "Safety Specialist",
+            "salary": 49000.0
+          }
+    ]      
+}

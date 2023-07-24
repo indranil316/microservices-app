@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#app{
+    width: 100%;
+    min-height: 100vh;
+}
+
+.paginationjs-pages ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.paginationjs-pages ul li a{
+    font-size: 40px;
+    cursor: pointer;
+}
